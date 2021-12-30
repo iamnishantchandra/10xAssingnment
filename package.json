@@ -12,7 +12,10 @@
   "devDependencies": {
     "jest": "^27.3.1"
   },
-  "jest":{
+  "jest": {
     "testEnvironment": "jsdom"
+  },
+  "dependencies": {
+    "quixote": "^1.0.1"
   }
 }
